@@ -181,9 +181,7 @@ Please discuss it with us first by creating new issue.
 **Python**
 
 | [jainaman224](https://github.com/jainaman224) |  | [sirilalithaadapa](https://github.com/sirilalithaadapa) |
-
-
-| --- |
+ | --- |   | --- |
 
 **Ruby**
 
